@@ -1,5 +1,5 @@
 ##[link](https://kuochiacheng0318.github.io/cv/ "link")
-## ChiaChengKuo
+## Chia-Cheng Kuo (Charles Kuo)
 
 <img src="task0.5Simple.PNG" width="500px">
 
