@@ -1,7 +1,7 @@
 ##[link](https://kuochiacheng0318.github.io/cv/ "link")
 ## Chia-Cheng Kuo (Charles Kuo)
 
-<img src="task0.5Simple.PNG" width="500px">
+<img src="CCKuoPhoto.jpg" width="300px">
 
 You can use the [editor on GitHub](https://github.com/KuoChiaCheng0318/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
