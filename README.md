@@ -1,11 +1,7 @@
 ##[link](https://kuochiacheng0318.github.io/cv/ "link")
 ## Chia-Cheng Kuo (Charles Kuo)
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-<img src="CCKuoPhoto.jpg" width="300px">
+
+<img src="CCKuoPhoto.jpg" width="300px" style="border-radius:50%">
 
 You can use the [editor on GitHub](https://github.com/KuoChiaCheng0318/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
