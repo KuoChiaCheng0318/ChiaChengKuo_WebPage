@@ -1,4 +1,3 @@
-##[link](https://kuochiacheng0318.github.io/cv/ "link")
 ## Chia-Cheng Kuo (Charles Kuo)
 
 <img src="CCKuoPhoto.jpg" width="300px" style="border-radius:50%">
